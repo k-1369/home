@@ -1,0 +1,426 @@
+@media(max-width:1100px){
+	.info{
+		width: 90%;
+	}
+	.pp{
+		width: 150px;
+		height: 150px;
+	}
+	.wrapp1 img{
+		width: 25px;
+		height: 25px;
+	}
+	#font{
+		font-size: 18px;
+	}
+	.picsTxt h2{
+		font-size: 30px;
+	}
+	.wrapp3{
+		width: 600px;
+	}
+	.seeMore>a{
+		padding: 10px 40px;
+	}
+	.jellyFish{
+		margin-right: 600px;
+	}
+	#en{
+		width: 25px;
+		height: 25px;
+	}
+	#ru{
+		width: 25px;
+		height: 25px;
+	}
+	#fr{
+		width: 25px;
+		height: 25px;
+	}
+	.jelTxt{
+		top: 33px;
+	}
+	.changeLang{
+		height: 25px;
+	}
+}
+@media(max-width:900px){
+	.nav{
+		height: 70px;
+	}
+	#font{
+		font-size: 16px;
+	}
+	.jelPic{
+		width: 30px;
+		height: 30px;
+	}
+	.jelTxt{
+		margin-left: 15px;
+	}
+	.seeMore>a{
+		padding: 10px 35px;
+	}
+	.jellyFish{
+		margin-right: 400px;
+	}
+}
+
+@media(max-width:681px){
+	.jellyFish{
+		margin-right: 200px;
+	}
+	#font{
+		font-size: 14px;
+	}
+	.wrapp1 img{
+		width: 20px;
+		height: 20px;
+	}
+	.photo{
+		width: 200px;
+		height: 200px;
+	}
+	.wrapp3{
+		width: 400px;
+	}
+	.info{
+		white-space: normal;
+		border-radius: 50px;
+		margin-top: 50px;
+		margin-bottom: 0px;
+		width: 90%;
+		padding: 30px 0 30px 0;
+		display: block;
+	}
+	.coolPics{
+		margin: 80px 0;
+	}
+	.wrapp4{
+		width: 90%;
+	}
+	.infoPic{
+		display: flex;
+		justify-content: center;
+	}
+	.infoTxt{
+		margin: 20px 10px;
+		text-align: center;
+	}
+	.desc{
+		display: flex;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	.nav{
+		height: 60px;
+	}
+	.spans span{
+		width: 25px;
+		height: 1px;
+	}
+	.picsTxt h2{
+		margin-bottom: 15px;
+	}
+	.menu li{
+		font-size: 16px;
+		padding-bottom: 0px;
+		margin-bottom: 15px;
+	}
+	.group img{
+		width: 25px;
+		height: 25px;
+		margin-right: 10px;
+	}
+}
+
+@media(max-width:450px){
+	.wrapp1 img{
+		width: 15px;
+		height: 15px;
+	}
+	.info{
+		padding-bottom: 10px;
+	}
+	.jelPic{
+		width: 20px;
+		height: 20px;
+	}
+	.jellyFish{
+		margin-right: 100px;
+	}
+	.add{
+		margin: 10px 0;
+	}
+	.wrapp4{
+		padding: 10px 0;
+	}
+	.photo{
+		width: 150px;
+		height: 150px;
+	}
+	.wrapp3{
+		width: 300px;
+	}
+	footer{
+		height: 100px;
+	}
+	.jelTxt{
+		margin-left: 10px;
+	}
+	.changeLang{
+		height: 20px;
+	}
+	#en{
+		width: 20px;
+		height: 20px;
+		margin-left: 7px;
+	}
+	#ru{
+		width: 20px;
+		height: 20px;
+		margin-left: 7px;
+	}
+	#fr{
+		width: 20px;
+		height: 20px;
+		margin-left: 7px;
+	}
+	.lang{
+		padding: 5px 0;
+	}
+	.progress-container {
+		height: 5px;
+	}
+	.progress-bar {
+		height: 5px;
+	}
+	.picsTxt h2{
+		font-size: 22px;
+	}
+	#font{
+		font-size: 12px;
+	}
+	.picsPic{
+		margin-top: 20px;
+	}
+	.coolPics{
+		margin: 50px 0;
+	}
+	.pp{
+		width: 120px;
+		height: 120px;
+		border: 2px solid rgb(15, 113, 138);
+		padding: 3px;
+	}
+	.seeMore>a{
+		padding: 8px 20px;
+	}
+	.seeMore{
+		border: 1px #fff solid;
+	}
+	body{
+		line-height: 18px;
+	}
+}
+
+@media (max-width:330px){
+	.spans span{
+		width: 18px;
+	}
+	.changeLang{
+		height: 15px;
+	}
+	.info{
+		border-radius: 20px;
+	}
+	.info{
+		margin-top: 30px;
+	}
+	.picsTxt h2{
+		font-size: 16px;
+	}
+	.picsPic{
+		margin-top: 10px;
+	}
+	.menu li{
+		font-size: 12px;
+	}
+	.nav{
+		height: 40px;
+	}
+	.pp{
+		width: 100px;
+		height: 100px;
+	}
+	.jelPic{
+		width: 15px;
+		height: 15px;
+	}
+	#en{
+		width: 15px;
+		height: 15px;
+		border-radius: 2px;
+	}
+	#fr{
+		width: 15px;
+		height: 15px;
+		border-radius: 2px;
+	}
+	#ru{
+		width: 15px;
+		height: 15px;
+		border-radius: 2px;
+	}
+	.photo{
+		width: 120px;
+		height: 120px;
+	}
+	.wrapp3{
+		width: 230px;
+	}
+	.picsTxt p{
+		margin-left: 4px;
+		margin-right: 4px;
+	}
+	.accordion{
+		padding: 10px;
+	}
+	#font{
+		font-size: 8px;
+	}
+	body{
+		line-height: 15px;
+	}
+	.wrapp1 img{
+		width: 12px;
+		height: 12px;
+	}
+	.wrapp1{
+		margin-left: 5px;
+	}
+	.group img{
+		width: 16px;
+		height: 16px;
+		margin-right: 10px;
+	}
+	footer{
+		height: 60px;
+	}
+	.seeMore{
+		border-radius: 5px;
+		margin-top: 20px;
+	}
+	.coolPics{
+		margin-bottom: 30px;
+	}
+	.archive{
+		margin-bottom: 20px;
+	}
+}
+
+@media(max-width:255px){
+	body{
+		line-height: 13px;
+	}
+	.menu li{
+		font-size: 10px;
+	}
+	#en{
+		width: 12px;
+		height: 12px;
+		margin-left: 5px;
+		border-radius: 1px;
+	}
+	#fr{
+		width: 12px;
+		height: 12px;
+		margin-left: 5px;
+		border-radius: 1px;
+	}
+	#ru{
+		width: 12px;
+		height: 12px;
+		margin-left: 5px;
+		border-radius: 1px;
+	}
+	.info{
+		padding: 20px 0 5px 0;
+	}
+	.picsTxt h2{
+		font-size: 13px;
+	}
+	#font{
+		font-size: 7px;
+	}
+	.infoTxt{
+		margin: 10px 6px;
+	}
+	.desc{
+		margin-bottom: 6px;
+	}
+	.coolPics{
+		margin-top: 40px;
+	}
+	.seeMore{
+		margin-top: 15px;
+	}
+	footer{
+		height: 50px;
+	}
+	.seeMore a{
+		padding: 5px 10px;
+	}
+	.jelTxt2{
+		display: block;
+		margin: auto 0 auto 5px;
+	}
+	.jelTxt{
+		display: none;
+	}
+	.add,.del{
+		padding: 5px;
+	}
+	.photo{
+		width: 80px;
+		height: 80px;
+	}
+	.wrapp3{
+		width: 150px;
+	}
+	.wrapp4{
+		padding: 5px 0;
+	}
+	.jellyFish{
+		margin-left: 10px;
+		margin-right: 40px;
+	}
+	.jelPic{
+		width: 13px;
+		height: 13px;
+	}
+	.progress-container {
+		height: 4px;
+	}
+	.pp{
+		width: 80px;
+		height: 80px;
+	}
+	.spans span{
+		width: 15px;
+	}
+	.spans span:nth-of-type(2) {
+		top: calc(50% - 4px);
+	}
+	.spans span:nth-of-type(3) {
+		top: calc(50% + 4px);
+	}
+	.progress-bar {
+		height: 4px;
+	}
+	.group img{
+		width: 14px;
+		height: 14px;
+		margin-right: 5px;
+	}
+}
